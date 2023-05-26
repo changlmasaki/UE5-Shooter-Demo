@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UE5Project/UE5_Shooter_Demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/UE5Project/UE5_Shooter_Demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/NewFeature/BP_Text.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PV/45UCTVACCGDST9APVC7JLA.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/UI/B.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/UI/BP_Crosshair.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/FirstPerson/Blueprints/BP_Crosshair.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/I9/JLH69610G57RGKNGIG4JAX.uasset",
+				"E:/UE5Project/UE5_Shooter_Demo/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
 			]
 		}
 	]
