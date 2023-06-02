@@ -1,0 +1,1309 @@
+﻿Log file open, 05/28/23 02:20:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=29940)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThirdPerson_Shooting
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/UE5 Projects/ThirdPerson_Shooting/ThirdPerson_Shooting.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1702] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12400"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="62b34876417133b731c8239614893bae"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 11.696960
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-38F9DB4F45A4F151637331AAFC1B8E18
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.32 seconds
+LogConfig: Display: Loading Unix ini files took 0.33 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.35 seconds
+LogConfig: Display: Loading Linux ini files took 0.36 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.41 seconds
+LogConfig: Display: Loading Android ini files took 0.42 seconds
+LogConfig: Display: Loading IOS ini files took 0.43 seconds
+LogConfig: Display: Loading TVOS ini files took 0.43 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1702] (), CPU: 12th Gen Intel(R) Core(TM) i5-12400, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.28-08.20.48:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.28-08.20.48:803][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.28-08.20.48:803][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.28-08.20.48:803][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.28-08.20.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.28-08.20.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.28-08.20.49:069][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.28-08.20.49:070][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.28-08.20.49:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.28-08.20.49:072][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.28-08.20.49:072][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.28-08.20.49:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.28-08.20.49:072][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.28-08.20.49:072][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.28-08.20.53:211][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.28-08.20.53:211][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.28-08.20.53:808][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.28-08.20.53:808][  0]LogD3D12RHI: Adapter has 12129MB of dedicated video memory, 0MB of dedicated system memory, and 16244MB of shared system memory, 1 output[s]
+[2023.05.28-08.20.53:829][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.28-08.20.53:829][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16244MB of shared system memory, 0 output[s]
+[2023.05.28-08.20.54:236][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.28-08.20.54:236][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.28-08.20.54:236][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.28-08.20.54:236][  0]LogHAL: Display: Platform has ~ 32 GB [34066358272 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.28-08.20.54:236][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.28-08.20.54:236][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.28-08.20.54:236][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.28-08.20.54:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.28-08.20.54:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE5 Projects/ThirdPerson_Shooting/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.28-08.20.54:282][  0]LogInit: Computer: L-T5IPC
+[2023.05.28-08.20.54:282][  0]LogInit: User: liusi
+[2023.05.28-08.20.54:282][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.28-08.20.54:282][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.28-08.20.54:282][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.05.28-08.20.54:282][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.28-08.20.54:282][  0]LogMemory: Process Physical Memory: 278.75 MB used, 291.70 MB peak
+[2023.05.28-08.20.54:282][  0]LogMemory: Process Virtual Memory: 237.24 MB used, 237.24 MB peak
+[2023.05.28-08.20.54:282][  0]LogMemory: Physical Memory: 14853.32 MB used,  17634.89 MB free, 32488.21 MB total
+[2023.05.28-08.20.54:282][  0]LogMemory: Virtual Memory: 20355.28 MB used,  23908.93 MB free, 44264.21 MB total
+[2023.05.28-08.20.54:282][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.28-08.20.54:293][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.28-08.20.55:663][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.28-08.20.56:390][  0]LogInit: Using OS detected language (en-GB).
+[2023.05.28-08.20.56:390][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.05.28-08.20.56:400][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.05.28-08.21.01:812][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.28-08.21.01:952][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.28-08.21.01:952][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2023.05.28-08.21.01:952][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.05.28-08.21.01:952][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.05.28-08.21.01:952][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2023.05.28-08.21.03:231][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.28-08.21.03:231][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.28-08.21.23:687][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.28-08.21.23:841][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.05.28-08.21.23:841][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.05.28-08.21.24:279][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.05.28-08.21.24:914][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.28-08.21.24:923][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.28-08.21.24:941][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.28-08.21.25:828][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.28-08.21.25:828][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.28-08.21.26:867][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.28-08.21.26:867][  0]LogWindows: Attached monitors:
+[2023.05.28-08.21.26:867][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.28-08.21.26:867][  0]LogWindows: Found 1 attached monitors.
+[2023.05.28-08.21.26:867][  0]LogWindows: EnumDisplayDevices:
+[2023.05.28-08.21.26:867][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.28-08.21.26:868][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.28-08.21.26:868][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.28-08.21.26:869][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.28-08.21.26:869][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.28-08.21.26:869][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.05.28-08.21.26:869][  0]LogD3D12RHI:   Driver Version: 532.03 (internal:31.0.15.3203, unified:532.03)
+[2023.05.28-08.21.26:869][  0]LogD3D12RHI:      Driver Date: 5-19-2023
+[2023.05.28-08.21.26:870][  0]LogRHI: Texture pool is 7157 MB (70% of 10224 MB)
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: HDR output is supported on adapter 0, display 0:
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: 		MinLuminance = 0.000000
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: 		MaxLuminance = 603.698425
+[2023.05.28-08.21.26:870][  0]LogD3D12RHI: 		MaxFullFrameLuminance = 603.698425
+[2023.05.28-08.21.29:234][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.05.28-08.21.29:995][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE5 Projects/ThirdPerson_Shooting/ThirdPerson_Shooting.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 Projects/ThirdPerson_Shooting/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 Projects/ThirdPerson_Shooting/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 Projects/ThirdPerson_Shooting/ThirdPerson_Shooting.uproject"  -platform=all'
+[2023.05.28-08.21.29:995][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UnrealEngine5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE5 Projects/ThirdPerson_Shooting/ThirdPerson_Shooting.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 Projects/ThirdPerson_Shooting/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 Projects/ThirdPerson_Shooting/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 Projects/ThirdPerson_Shooting/ThirdPerson_Shooting.uproject"  -platform=all" ]
+[2023.05.28-08.21.32:597][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.28-08.21.34:222][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.28-08.21.34:222][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.28-08.21.34:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.28-08.21.34:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.28-08.21.34:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.28-08.21.35:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.28-08.21.35:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.28-08.21.35:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.28-08.21.35:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.28-08.21.35:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.28-08.21.35:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.28-08.21.35:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.28-08.21.35:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.28-08.21.35:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.28-08.21.35:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.28-08.21.35:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.28-08.21.36:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.28-08.21.36:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.28-08.21.36:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.28-08.21.36:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.28-08.21.36:582][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.28-08.21.38:067][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.28-08.21.38:239][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.28-08.21.38:239][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.28-08.21.38:239][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.28-08.21.38:239][  0]LogTargetPlatformManager:   PCM
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager:   BINKA
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager:   OGG
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.28-08.21.38:626][  0]LogTargetPlatformManager:   OPUS
+[2023.05.28-08.21.41:456][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.28-08.21.41:579][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.28-08.21.42:108][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.28-08.21.42:108][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.28-08.21.42:108][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE5 Projects/ThirdPerson_Shooting/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.28-08.21.42:133][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.28-08.21.42:134][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE5 Projects/ThirdPerson_Shooting/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.28-08.21.42:334][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.28-08.21.42:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE5 Projects/ThirdPerson_Shooting/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.28-08.21.42:511][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.28-08.21.42:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE5 Projects/ThirdPerson_Shooting/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-08.21.42:511][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.28-08.21.42:790][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.28-08.21.42:946][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-08.21.42:946][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.28-08.21.42:960][  0]LogDerivedDataCache: Speed tests for C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.28-08.21.42:960][  0]LogDerivedDataCache: Display: Performance to C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=174.84MBs, RandomWriteSpeed=134.43MBs. Assigned SpeedClass 'Local'
+[2023.05.28-08.21.42:961][  0]LogDerivedDataCache: Using Local data cache path C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.28-08.21.42:961][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.28-08.21.42:961][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.28-08.21.42:969][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.28-08.21.42:969][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.28-08.21.42:969][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../UE5 Projects/ThirdPerson_Shooting/Intermediate/Shaders/WorkingDirectory/27900/).
+[2023.05.28-08.21.42:970][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/liusi/AppData/Local/Temp/UnrealShaderWorkingDir/0E32A054407A6EFBDD1A1387C9CA59F9/'.
+[2023.05.28-08.21.42:970][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.28-08.21.42:970][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.05.28-08.22.12:568][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.28-08.22.12:568][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.28-08.22.12:623][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.28-08.22.13:007][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2023.05.28-08.22.13:178][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.28-08.22.13:533][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.28-08.22.13:533][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.28-08.22.13:955][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.28-08.22.13:955][  0]LogDeviceProfileManager: Active device profile: [0000096C57275CC0][0000096C4EF92800 50] WindowsEditor
+[2023.05.28-08.22.13:955][  0]LogDeviceProfileManager: Profiles: [0000096C57275780][0000096C3A725000 50] Windows, [0000096C57275CC0][0000096C4EF92800 50] WindowsEditor, [0000096C57275080][0000096C4EF6A000 50] WindowsServer, [0000096C57274D00][0000096C57510000 50] WindowsClient, [0000096C57271500][0000096C57515000 50] IOS, [0000096C57275400][0000096C57517800 50] iPadAir2, [0000096C57275E80][0000096C5751C800 50] IPadPro, [0000096C57276200][0000096C5751A000 50] iPadAir3, [0000096C57274B40][0000096C4E4D2800 50] iPadAir4, [0000096C57272300][0000096C57540000 50] iPadMini4, [0000096C57274980][0000096C57545000 50] iPadMini5, [0000096C57276040][0000096C57547800 50] iPadMini6, [0000096C57279140][0000096C57512800 50] iPhone6S, [0000096C572794C0][0000096C5754C800 50] iPhone7, [0000096C57279840][0000096C5754A000 50] iPodTouch7, [0000096C57275240][0000096C57550000 50] iPhone6SPlus, [0000096C57278180][0000096C57555000 50] iPhone7Plus, [0000096C57278C00][0000096C57557800 50] iPhoneSE, [0000096C572716C0][0000096C5755A000 50] iPhone8, [0000096C57279A00][0000096C5755C800 50] iPhone8Plus, [0000096C57278340][0000096C57542800 50] iPhoneX, [0000096C57279680][0000096C57570000 50] iPhoneXS, [0000096C57276580][0000096C57575000 50] iPhoneXSMax, [0000096C572739C0][0000096C57577800 50] iPhoneXR, [0000096C57277A80][0000096C5757A000 50] iPhone11, [0000096C57273D40][0000096C5757C800 50] iPhone11Pro, [0000096C57270FC0][0000096C57552800 50] iPhone11ProMax, [0000096C57272BC0][0000096C57580000 50] iPhoneSE2, [0000096C57277E00][0000096C57585000 50] iPhone12Mini, [0000096C57273480][0000096C57587800 50] iPhone12, [0000096C57276900][0000096C5758A000 50] iPhone12Pro, [0000096C57271880][0000096C5758C800 50] iPhone12ProMax, [0000096C57271DC0][0000096C57572800 50] iPhone13Mini, [0000096C57277000][0000096C57590000 50] iPhone13, [0000096C57272A00][0000096C57595000 50] iPhone13Pro, [0000096C57273F00][0000096C57597800 50] iPhone13ProMax, [0000096C572763C0][0000096C5759A000 50] iPadPro105, [0000096C572747C0][0000096C5759C800 50] iPadPro129, [0000096C57271F80][0000096C57582800 50] iPadPro97, [0000096C57277380][0000096C575A0000 50] iPadPro2_129, [0000096C572755C0][0000096C575A5000 50] iPad5, [0000096C57271180][0000096C575A7800 50] iPad6, [0000096C57272D80][0000096C575AA000 50] iPad7, [0000096C57276C80][0000096C575AC800 50] iPad8, [0000096C57277540][0000096C57592800 50] iPad9, [0000096C57279BC0][0000096C575B0000 50] iPadPro11, [0000096C572778C0][0000096C575B5000 50] iPadPro2_11, [0000096C572732C0][0000096C575B7800 50] iPadPro3_11, [0000096C57275B00][0000096C575BA000 50] iPadPro3_129, [0000096C57273640][0000096C575BC800 50] iPadPro4_129, [0000096C57272840][0000096C575A2800 50] iPadPro5_129, [0000096C57271340][0000096C575C0000 50] AppleTV, [0000096C57276E40][0000096C575C5000 50] AppleTV4K, [0000096C572724C0][0000096C575C7800 50] TVOS, [0000096C5727B280][0000096C575CC800 50] Mac, [0000096C5727B600][0000096C575CA000 50] MacEditor, [0000096C5727AF00][0000096C575B2800 50] MacClient, [0000096C57277FC0][0000096C575D0000 50] MacServer, [0000096C5727B7C0][0000096C575D7800 50] Linux, [0000096C5727B0C0][0000096C575D5000 50] LinuxEditor, [0000096C57274440][0000096C575DA000 50] LinuxArm64Editor, [0000096C57271A40][0000096C575DC800 50] LinuxArm64, [0000096C5727BB40][0000096C575C2800 50] LinuxClient, [0000096C57279F40][0000096C575E0000 50] LinuxArm64Client, [0000096C5727AD40][0000096C575E5000 50] LinuxServer, [0000096C5727A640][0000096C575E7800 50] LinuxArm64Server, [0000096C57276AC0][0000096C575EA000 50] Android, [0000096C57278880][0000096C575EC800 50] Android_Preview_OpenGL, [0000096C572786C0][0000096C575D2800 50] Android_Preview_Vulkan, [0000096C57272140][0000096C575F0000 50] Android_Low, [0000096C57274600][0000096C575F5000 50] Android_Mid, [0000096C5727A480][0000096C575F7800 50] Android_High, [0000096C572740C0][0000096C575FA000 50] Android_Default, [0000096C5727B980][0000096C575FC800 50] Android_Adreno4xx, [0000096C57277C40][0000096C575E2800 50] Android_Adreno5xx_Low, [0000096C57274280][0000096C57600000 50] Android_Adreno5xx, [0000096C5727A2C0][0000096C57605000 50] Android_Adreno6xx, [0000096C57278A40][0000096C57607800 50] Android_Adreno6xx_Vulkan, [0000096C57273B80][0000096C5760A000 50] Android_Adreno7xx, [0000096C57273100][0000096C5760C800 50] Android_Adreno7xx_Vulkan, [0000096C5727C5C0][0000096C575F2800 50] Android_Mali_T6xx, [0000096C572771C0][0000096C57610000 50] Android_Mali_T7xx, [0000096C5727C780][0000096C57615000 50] Android_Mali_T8xx, [0000096C57278500][0000096C57617800 50] Android_Mali_G71, [0000096C5727BD00][0000096C5761A000 50] Android_Mali_G72, [0000096C57272F40][0000096C5761C800 50] Android_Mali_G72_Vulkan, [0000096C57279D80][0000096C57602800 50] Android_Mali_G76, [0000096C57272680][0000096C57620000 50] Android_Mali_G76_Vulkan, [0000096C5727BEC0][0000096C57625000 50] Android_Mali_G77, [0000096C5727D580][0000096C57627800 50] Android_Mali_G77_Vulkan, [0000096C5727AB80][0000096C5762A000 50] Android_Mali_G78, [0000096C5727D740][0000096C5762C800 50] Android_Mali_G78_Vulkan, [0000096C5727C400][0000096C57612800 50] Android_Mali_G710, [0000096C5727CCC0][0000096C57630000 50] Android_Mali_G710_Vulkan, [0000096C57277700][0000096C57635000 50] Android_Xclipse_920, [0000096C5727C240][0000096C57637800 50] Android_Xclipse_920_Vulkan, [0000096C5727B440][0000096C5763A000 50] Android_Vulkan_SM5, [0000096C57271C00][0000096C5763C800 50] Android_PowerVR_G6xxx, [0000096C5727E700][0000096C57622800 50] Android_PowerVR_GT7xxx, [0000096C5727C080][0000096C57640000 50] Android_PowerVR_GE8xxx, [0000096C5727E000][0000096C57645000 50] Android_PowerVR_GM9xxx, [0000096C5727EA80][0000096C57647800 50] Android_PowerVR_GM9xxx_Vulkan, [0000096C5727E1C0][0000096C5764A000 50] Android_TegraK1, [0000096C57279300][0000096C5764C800 50] Android_Unknown_Vulkan, [0000096C5727E8C0][0000096C57632800 50] Oculus_Quest, [0000096C5727A9C0][0000096C57650000 50] Oculus_Quest2, [0000096C5727F500][0000096C57655000 50] HoloLens, 
+[2023.05.28-08.22.13:955][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.28-08.22.14:046][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.05.28-08.22.14:046][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=1533.100.57.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_InvalidVersionExists, Platform_ValidHostPrerequisites")
+[2023.05.28-08.22.14:046][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.28-08.22.14:046][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.28-08.22.14:046][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.28-08.22.15:417][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.28-08.22.16:918][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.28-08.22.16:918][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.28-08.22.16:918][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.28-08.22.16:918][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.28-08.22.16:918][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.28-08.22.17:102][  0]LogNetVersion: ThirdPerson_Shooting 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 440423495)
+[2023.05.28-08.22.20:805][  0]LogSlate: Border
+[2023.05.28-08.22.20:805][  0]LogSlate: BreadcrumbButton
+[2023.05.28-08.22.20:805][  0]LogSlate: Default
+[2023.05.28-08.22.20:806][  0]LogSlate: Icons.Save
+[2023.05.28-08.22.20:806][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.28-08.22.20:806][  0]LogSlate: ListView
+[2023.05.28-08.22.20:806][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.28-08.22.20:806][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.28-08.22.20:806][  0]LogSlate: TableView.DarkRow
+[2023.05.28-08.22.20:806][  0]LogSlate: TableView.Row
+[2023.05.28-08.22.20:806][  0]LogSlate: TreeView
+[2023.05.28-08.22.23:712][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.24:135][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.24:135][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.24:801][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.28-08.22.24:801][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.28-08.22.24:801][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.28-08.22.31:035][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 616DAB5F409AE66BF176839728804B30 | Instance: 06619404403F10AFB4E865BF21632D4D (L-T5IPC-27900).
+[2023.05.28-08.22.31:672][  0]LogPython: Using Python 3.9.7
+[2023.05.28-08.22.33:286][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.28-08.22.33:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.28-08.22.34:578][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.34:588][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.34:599][  0]SourceControl: Source control is disabled
+[2023.05.28-08.22.34:612][  0]LogUProjectInfo: Found projects:
+[2023.05.28-08.22.37:471][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.28-08.22.37:535][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.28-08.22.37:570][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.28-08.22.37:570][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.28-08.22.37:695][  0]LogCollectionManager: Loaded 0 collections in 0.007818 seconds
+[2023.05.28-08.22.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/ThirdPerson_Shooting/Saved/Collections/' took 0.00s
+[2023.05.28-08.22.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/ThirdPerson_Shooting/Content/Developers/liusi/Collections/' took 0.00s
+[2023.05.28-08.22.37:820][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/ThirdPerson_Shooting/Content/Collections/' took 0.00s
+[2023.05.28-08.22.38:397][  0]LogEngine: Initializing Engine...
+[2023.05.28-08.22.38:482][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.28-08.22.38:495][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.28-08.22.38:759][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.28-08.22.38:759][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.28-08.22.38:782][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-08.22.38:809][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.28-08.22.38:810][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.28-08.22.38:833][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.28-08.22.38:834][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.28-08.22.38:834][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.28-08.22.38:834][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.28-08.22.38:834][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.28-08.22.38:834][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-08.22.38:834][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-08.22.38:835][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-08.22.38:835][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-08.22.38:835][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-08.22.38:846][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.28-08.22.38:913][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2023.05.28-08.22.38:913][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-08.22.38:916][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-08.22.38:916][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-08.22.38:917][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.28-08.22.38:917][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.28-08.22.38:918][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.28-08.22.38:918][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.28-08.22.38:918][  0]LogInit: FAudioDevice initialized.
+[2023.05.28-08.22.38:918][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.28-08.22.38:918][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.28-08.22.38:918][  0]LogInit: Texture streaming: Enabled
+[2023.05.28-08.22.38:950][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.28-08.22.38:960][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.28-08.22.38:981][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.28-08.22.38:989][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.28-08.22.38:989][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.05.28-08.23.18:171][  0]LogLiveCoding: Display: First instance in process group "UE_ThirdPerson_Shooting_0x3cb9b5bc", spawning console
+[2023.05.28-08.23.18:171][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.28-08.23.18:171][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.28-08.23.18:256][  0]LogInit: Transaction tracking system initialized
+[2023.05.28-08.23.18:326][  0]BlueprintLog: New page: Editor Load
+[2023.05.28-08.23.18:566][  0]LocalizationService: Localization service is disabled
+[2023.05.28-08.23.18:651][  0]TimingProfiler: Initialize
+[2023.05.28-08.23.18:651][  0]TimingProfiler: OnSessionChanged
+[2023.05.28-08.23.18:652][  0]LoadingProfiler: Initialize
+[2023.05.28-08.23.18:652][  0]LoadingProfiler: OnSessionChanged
+[2023.05.28-08.23.18:652][  0]NetworkingProfiler: Initialize
+[2023.05.28-08.23.18:652][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.28-08.23.18:652][  0]MemoryProfiler: Initialize
+[2023.05.28-08.23.18:652][  0]MemoryProfiler: OnSessionChanged
+[2023.05.28-08.23.19:805][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/ThirdPerson_Shooting/Content/' took 0.03s
+[2023.05.28-08.23.19:805][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.28-08.23.19:880][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.28-08.23.19:882][  0]SourceControl: Source control is disabled
+[2023.05.28-08.23.19:882][  0]LogUnrealEdMisc: Loading editor; pre map load, took 290.980
+[2023.05.28-08.23.19:882][  0]Cmd: MAP LOAD FILE="../../../../../UE5 Projects/ThirdPerson_Shooting/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.28-08.23.20:000][  0]LightingResults: New page: Lighting Build
+[2023.05.28-08.23.20:006][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-08.23.20:006][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-08.23.20:006][  0]MapCheck: New page: Map Check
+[2023.05.28-08.23.20:006][  0]LightingResults: New page: Lighting Build
+[2023.05.28-08.23.20:012][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-08.23.20:154][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.05.28-08.23.23:826][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.28-08.23.23:834][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-08.23.23:835][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.28-08.23.23:835][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.28-08.23.23:835][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.28-08.23.25:411][  0]LogWorldPartition: Display: WorldPartition initialize took 1.57 sec
+[2023.05.28-08.23.25:665][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.28-08.23.25:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.28-08.23.25:674][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.28-08.23.25:675][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.435ms to complete.
+[2023.05.28-08.23.25:675][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 5.792
+[2023.05.28-08.23.25:731][  0]LogUnrealEdMisc: Total Editor Startup Time, took 296.828
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: ================================================
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.28-08.23.25:731][  0]LogShaderCompilers: Display: ================================================
+[2023.05.28-08.23.26:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-08.23.27:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-08.23.27:047][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2023.05.28-08.23.27:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-08.23.27:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-08.23.28:304][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:304][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:326][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:326][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:336][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:336][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:376][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:376][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:425][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:425][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:445][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:445][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:462][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:462][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:472][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:472][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:486][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:486][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:551][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.28-08.23.28:551][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-08.23.28:551][  0]LogFeaturePack: Error: Error in Feature pack D:/UnrealEngine5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.28-08.23.29:707][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.28-08.23.30:128][  0]LogSlate: Took 0.020756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.28-08.23.30:205][  0]LogSlate: Took 0.015367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.28-08.23.30:884][  0]LogStall: Startup...
+[2023.05.28-08.23.30:887][  0]LogStall: Startup complete.
+[2023.05.28-08.23.31:037][  0]LogLoad: (Engine Initialization) Total time: 302.13 seconds
+[2023.05.28-08.23.31:037][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.28-08.23.31:179][  0]LogAssetRegistry: Asset discovery search completed in 78.1737 seconds
+[2023.05.28-08.23.31:215][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.28-08.23.31:233][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.28-08.23.31:673][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.28-08.23.31:769][  0]LogViewport: Scene viewport resized to 2143x1144, mode Windowed.
+[2023.05.28-08.23.44:345][ 31]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.328 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.28-08.35.01:044][ 54]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - (Keyboard).
+[2023.05.28-08.35.01:358][ 54]LogViewport: Scene viewport resized to 1066x1144, mode Windowed.
+[2023.05.28-08.35.01:515][ 54]LogViewport: Scene viewport resized to 1066x472, mode Windowed.
+[2023.05.28-08.35.04:428][387]LogViewport: Scene viewport resized to 2143x1144, mode Windowed.
+[2023.05.28-08.52.57:815][490]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.05.28-08.52.57:849][490]LogSlate: Took 0.010717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.28-08.52.58:057][490]LogSlate: Took 0.008227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.28-08.52.58:856][499]LogScript: Warning: Accessed None trying to read property Character
+	ABP_ThirdPerson_SK_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ThirdPerson_SK_C_0
+	Function /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/ABP_ThirdPerson_SK.ABP_ThirdPerson_SK_C:ExecuteUbergraph_ABP_ThirdPerson_SK:001F
+[2023.05.28-08.52.58:856][499]LogScript: Warning: Accessed None
+	ABP_ThirdPerson_SK_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ThirdPerson_SK_C_0
+	Function /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/ABP_ThirdPerson_SK.ABP_ThirdPerson_SK_C:ExecuteUbergraph_ABP_ThirdPerson_SK:0034
+[2023.05.28-08.52.58:856][499]LogScript: Warning: Accessed None trying to read property Character
+	ABP_ThirdPerson_SK_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ThirdPerson_SK_C_0
+	Function /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/ABP_ThirdPerson_SK.ABP_ThirdPerson_SK_C:ExecuteUbergraph_ABP_ThirdPerson_SK:0078
+[2023.05.28-08.52.58:856][499]LogScript: Warning: Accessed None
+	ABP_ThirdPerson_SK_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ThirdPerson_SK_C_0
+	Function /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/ABP_ThirdPerson_SK.ABP_ThirdPerson_SK_C:ExecuteUbergraph_ABP_ThirdPerson_SK:008D
+[2023.05.28-08.52.58:856][499]LogScript: Warning: Accessed None trying to read property Character
+	ABP_ThirdPerson_SK_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ThirdPerson_SK_C_0
+	Function /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/ABP_ThirdPerson_SK.ABP_ThirdPerson_SK_C:ExecuteUbergraph_ABP_ThirdPerson_SK:00D8
+[2023.05.28-09.02.28:634][ 68]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.28-09.02.37:706][130]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.05.28-09.02.46:283][687]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Mask/T_VFX_Mask_5.T_VFX_Mask_5 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Other/T_VFX_Fire_Mask_2.T_VFX_Fire_Mask_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_3.T_VFX_Noise_3 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_10.T_VFX_Noise_10 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Other/T_VFX_Fire_Mask_1.T_VFX_Fire_Mask_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Flare/T_VFX_Flare_3.T_VFX_Flare_3 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Other/T_VFX_Radial_Normal.T_VFX_Radial_Normal (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_2.T_VFX_Noise_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Gradient/T_VFX_Gradient_5.T_VFX_Gradient_5 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Other/T_VFX_Radial_2_Normal.T_VFX_Radial_2_Normal (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_18.T_VFX_Noise_18 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Flare/T_VFX_Flare_2.T_VFX_Flare_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.14:642][722]LogMaterial: Display: Missing cached shadermap for M_VFX_Fire_Aura in PCD3D_SM5, Default, SM5 (DDC key hash: 387CBA5DE51A48D346CE26F4DF69E7F8A2F033F1), compiling. 
+[2023.05.28-09.07.15:074][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.15:074][722]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Smoke/T_VFX_Smoke_1.T_VFX_Smoke_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.07.15:074][722]LogMaterial: Display: Missing cached shadermap for M_VFX_Radial_Wave in PCD3D_SM5, Default, SM5 (DDC key hash: 3460C3F7DCD50189747D7E031B3E0B2BED48D05D), compiling. 
+[2023.05.28-09.07.15:148][722]LogMaterial: Display: Missing cached shadermap for M_VFX_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 4F5E6CD9EBF3AAF3530B435BF69EC853DA72764C), compiling. 
+[2023.05.28-09.07.15:201][722]LogMaterial: Display: Missing cached shadermap for M_VFX_Embers in PCD3D_SM5, Default, SM5 (DDC key hash: FDB0432D0B8E07C73DF825C2387AD5761D44F6AA), compiling. 
+[2023.05.28-09.07.15:340][722]LogMaterial: Display: Missing cached shadermap for M_Radial_Refraction in PCD3D_SM5, Default, SM5 (DDC key hash: 0DB2A396904B066822FE85E09E11325231D7935D), compiling. 
+[2023.05.28-09.07.15:475][722]LogMaterial: Display: Missing cached shadermap for M_VFX_Sphere_Aura in PCD3D_SM5, Default, SM5 (DDC key hash: 0553EDE20D7B647CECA7EE918FD1481FB234CFF5), compiling. 
+[2023.05.28-09.07.18:169][722]LogStaticMesh: Display: Building static mesh SM_VFX_Cone_1...
+[2023.05.28-09.07.18:169][722]LogStaticMesh: Display: Building static mesh SM_VFX_Sphere...
+[2023.05.28-09.07.18:169][722]LogStaticMesh: Built static mesh [0.28s] /Game/BlinkAndDashVFX/Meshes/SM_VFX_Cone_1.SM_VFX_Cone_1
+[2023.05.28-09.07.18:169][722]LogStaticMesh: Built static mesh [0.28s] /Game/BlinkAndDashVFX/Meshes/SM_VFX_Sphere.SM_VFX_Sphere
+[2023.05.28-09.07.18:343][722]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire
+[2023.05.28-09.07.18:343][722]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire
+[2023.05.28-09.07.18:593][722]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_1C697A996BCABE8601_1117432103
+[2023.05.28-09.07.19:056][722]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_1C697A996BCABE8601_1117432103
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: ================================================
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: Total job queries 511, among them cache hits 0 (0.00%)
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 8 distinct outputs (100.00%)
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: Shaders Compiled: 496
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: Jobs assigned 81, completed 8 (9.88%)
+[2023.05.28-09.07.21:484][739]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.17 s
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Job execution time: average 6.34 s, max 6.34 s
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Job life time (pending + execution): average 6.40 s, max 6.40
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.40 s
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 9.00 jobs/batch
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Average processing rate: 1.25 jobs/sec
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.50% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.99% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.46% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 11.27% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display:                                             FDebugViewModeVS - 10.86% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2023.05.28-09.07.21:511][739]LogShaderCompilers: Display: ================================================
+[2023.05.28-09.07.24:917][955]LogNiagara: Compiling System NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Blink_Fire.NS_Blink_Fire took 7.275731 sec (time since issued), 61.240723 sec (combined shader worker time).
+[2023.05.28-09.07.33:084][448]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/bf/bd/60916a1079646a97c668f6b0aa96b670d254.udd from 'NS_Blink_Fire/Sparks_1/ParticleGPUComputeScript'.
+[2023.05.28-09.07.33:084][448]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/b7/e6/8562935f33365009078e81636a9fb9ae0a3d.udd from 'NS_Blink_Fire/Sparks_2/ParticleGPUComputeScript'.
+[2023.05.28-09.08.15:440][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.28-09.08.15:537][751]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.027363 seconds
+[2023.05.28-09.08.15:598][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UX/9K1Q5EG1IO56LQBNK6HT75_Auto1
+[2023.05.28-09.08.15:598][751]LogSavePackage: Moving '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/9K1Q5EG1IO56LQBNK6HT75_Auto179C58F464FE15D4F3B8E79B0E6FA57A4.tmp' to '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UX/9K1Q5EG1IO56LQBNK6HT75_Auto1.uasset'
+[2023.05.28-09.08.15:638][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.240
+[2023.05.28-09.08.15:638][751]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.240
+[2023.05.28-09.20.00:480][114]LogAssetTools: Warning: Failed to import 'F:\UE5Content\中国风日式东方\Feudal Japan Warroom\Feudal Japan Warroom\Feudal Japan Warroom\WarRoom\Maps\Overview.umap'. Unknown extension 'umap'.
+[2023.05.28-09.20.00:493][114]LogAssetTools: Warning: Failed to import 'F:\UE5Content\中国风日式东方\Feudal Japan Warroom\Feudal Japan Warroom\Feudal Japan Warroom\WarRoom\Maps\Overview_BuiltData.uasset'. Unknown extension 'uasset'.
+[2023.05.28-09.20.00:507][114]LogAssetTools: Warning: Failed to import 'F:\UE5Content\中国风日式东方\Feudal Japan Warroom\Feudal Japan Warroom\Feudal Japan Warroom\WarRoom\Maps\WarRoom.umap'. Unknown extension 'umap'.
+[2023.05.28-09.20.00:518][114]LogAssetTools: Warning: Failed to import 'F:\UE5Content\中国风日式东方\Feudal Japan Warroom\Feudal Japan Warroom\Feudal Japan Warroom\WarRoom\Maps\WarRoom_BuiltData.uasset'. Unknown extension 'uasset'.
+[2023.05.28-09.20.00:594][114]LogSlate: Took 0.073495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.05.28-09.22.08:139][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlinkAndDashVFX/BluePrints/BlinkAndDashFX_UsageExample.BlinkAndDashFX_UsageExample
+[2023.05.28-09.22.08:210][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.22.24:756][260]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.05.28-09.22.24:756][260]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12133ms] waiting for h/w. InstanceID=1
+[2023.05.28-09.22.24:756][260]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.030543s
+[2023.05.28-09.22.25:066][260]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2023.05.28-09.22.25:632][260]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003300s (2.997295s overbudget)
+[2023.05.28-09.22.26:796][260]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24544
+[2023.05.28-09.22.26:796][260]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2023.05.28-09.22.27:796][260]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2023.05.28-09.22.27:893][260]LogNiagara: Compiling System NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Dash_Ghost.NS_Dash_Ghost took 20.022491 sec, no shader worker used.
+[2023.05.28-09.22.27:928][260]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0e23d36-fadf-4c39-9aa8-080423c808b3}, Name=Headset Earphone (GameDAC Chat)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=18.16
+[2023.05.28-09.22.27:933][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.28-09.22.28:442][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.28-09.22.52:167][ 18]LogSlate: Took 0.006629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.28-09.23.01:517][892]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Flare/T_VFX_Flare_4.T_VFX_Flare_4 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.23.01:517][892]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Glow/T_VFX_Glow_1.T_VFX_Glow_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.23.01:517][892]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_12.T_VFX_Noise_12 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.23.01:517][892]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/Textures/Noise/T_VFX_Noise_6.T_VFX_Noise_6 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.23.01:517][892]LogMaterial: Display: Missing cached shadermap for MI_VFX_Curve in PCD3D_SM5, Default, SM5 (DDC key hash: 1ED11888C580B5935BEACB1822985B63A5AF2479), compiling. 
+[2023.05.28-09.23.01:622][892]LogTexture: Display: Building textures: /Game/BlinkAndDashVFX/VFX_Niagara/NS_Dash_Mana.NS_Dash_Mana:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.05.28-09.23.01:622][892]LogMaterial: Display: Missing cached shadermap for MI_VFX_ShockWave in PCD3D_SM5, Default, SM5 (DDC key hash: 3801638D6228A90477F4936EA7577CEAADCC8232), compiling. 
+[2023.05.28-09.23.01:714][892]LogMaterial: Display: Missing cached shadermap for MI_VFX_Spark_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 956970A605E3125A4C9C3E2623252C8B070AE61D), compiling. 
+[2023.05.28-09.23.01:803][892]LogStaticMesh: Display: Building static mesh SM_VFX_Cone_2...
+[2023.05.28-09.23.01:803][892]LogMaterial: Display: Missing cached shadermap for MI_VFX_Trail in PCD3D_SM5, Default, SM5 (DDC key hash: C676E5C9C5E6ED15CF5109167CC7757B976FECF8), compiling. 
+[2023.05.28-09.23.02:571][892]LogStaticMesh: Built static mesh [0.01s] /Game/BlinkAndDashVFX/Meshes/SM_VFX_Cone_2.SM_VFX_Cone_2
+[2023.05.28-09.23.02:571][892]LogStaticMesh: Display: Building static mesh SM_VFX_DoubleQuad...
+[2023.05.28-09.23.02:571][892]LogStaticMesh: Built static mesh [0.01s] /Game/BlinkAndDashVFX/Meshes/SM_VFX_DoubleQuad.SM_VFX_DoubleQuad
+[2023.05.28-09.23.06:821][988]LogShaderCompilers: Display: ================================================
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Total job queries 992, among them cache hits 1 (0.10%)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Tracking 523 distinct input hashes that result in 257 distinct outputs (49.14%)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: RAM used: 0.81 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Shaders Compiled: 960
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Jobs assigned 595, completed 523 (87.90%)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Average time worker was idle: 84.54 s
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Time job spent in pending queue: average 18.72 s, longest 48.05 s
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Job execution time: average 6.81 s, max 10.00 s
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Job life time (pending + execution): average 28.09 s, max 48.71
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 54.01 s
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Jobs were issued in 93 batches (only local compilation was used), average 6.40 jobs/batch
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Average processing rate: 9.68 jobs/sec
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Effective parallelization: 6.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 1.18 sec, max 1.77 sec, min 0.75 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 1.11 sec, max 1.33 sec, min 0.83 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   34 times, average 1.07 sec, max 1.45 sec, min 0.56 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.07 sec, max 1.53 sec, min 0.73 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    5 times, average 1.06 sec, max 1.35 sec, min 0.73 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.02% of total time (compiled   34 times, average 1.07 sec, max 1.45 sec, min 0.56 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.45% of total time (compiled   34 times, average 1.01 sec, max 1.61 sec, min 0.38 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.40% of total time (compiled   35 times, average 0.77 sec, max 1.19 sec, min 0.30 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> - 7.24% of total time (compiled   34 times, average 0.77 sec, max 1.30 sec, min 0.27 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.21% of total time (compiled   35 times, average 0.75 sec, max 1.22 sec, min 0.29 sec)
+[2023.05.28-09.23.06:822][988]LogShaderCompilers: Display: ================================================
+[2023.05.28-09.23.09:278][114]LogNiagara: Compiling System NiagaraSystem /Game/BlinkAndDashVFX/VFX_Niagara/NS_Dash_Mana.NS_Dash_Mana took 7.161363 sec (time since issued), 55.296829 sec (combined shader worker time).
+[2023.05.28-09.23.10:850][194]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/f4/52/8cf9f3fa9989aee64eef674eb0046acb19cb.udd from 'NS_Dash_Mana/Sparks/ParticleGPUComputeScript'.
+[2023.05.28-09.23.10:950][199]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/6c/c8/795909e75c43eef445cbd64a5ab5b6e6624c.udd from 'NS_Dash_Mana/Stars/ParticleGPUComputeScript'.
+[2023.05.28-09.23.36:474][472]LogViewport: Scene viewport resized to 1331x625, mode Windowed.
+[2023.05.28-09.23.40:070][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.28-09.23.40:158][625]LogWorldPartition: Display: GetPartitionedActors took 218 us
+[2023.05.28-09.23.40:159][625]LogWorldPartition: Display: GenerateStreaming took 812 us
+[2023.05.28-09.23.40:263][625]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.28-09.23.40:311][625]LogPlayLevel: [PlayLevel] Compiling BlinkAndDashFX_UsageExample before play...
+[2023.05.28-09.23.40:711][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.28-09.23.40:713][625]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2023.05.28-09.23.40:726][625]PIE: New page: PIE session: ThirdPersonMap (2023年5月27日 下午9:23:40)
+[2023.05.28-09.23.40:867][625]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.28-09.23.40:884][625]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.28-09.23.40:902][625]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.28-09.23.40:966][625]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.28-09.23.40:974][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072350s)
+[2023.05.28-09.23.40:974][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.072643s)
+[2023.05.28-09.23.41:033][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.23.41:033][625]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.28-09.23.41:036][625]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.28-09.23.41:036][625]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.28-09.23.41:038][625]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.05.28-09.23.41:038][625]LogPlayLevel: PIE: World Init took: (0.063733s)
+[2023.05.28-09.23.41:076][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.28-09.23.41:099][625]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.28-09.23.41:099][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-09.23.41:099][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-09.23.41:100][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-09.23.41:100][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-09.23.41:100][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-09.23.41:113][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.28-09.23.41:175][625]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2023.05.28-09.23.41:175][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-09.23.41:175][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-09.23.41:175][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-09.23.41:176][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.28-09.23.41:176][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.28-09.23.41:180][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.28-09.23.41:180][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.28-09.23.41:180][625]LogInit: FAudioDevice initialized.
+[2023.05.28-09.23.41:180][625]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.05.28-09.23.41:281][625]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.28-09.23.41:283][625]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.05.28-03.23.41
+[2023.05.28-09.23.41:308][625]LogWorld: Bringing up level for play took: 0.025390
+[2023.05.28-09.23.41:332][625]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.05.28-09.23.41:653][625]PIE: Warning: Invalid Simulate Options: Body (BP_ThirdPersonCharacter_C_0.CharacterMesh0 SK_MMannequin) is set to simulate physics but Collision Enabled is incompatible
+[2023.05.28-09.23.41:653][625]PIE: Warning: Invalid Simulate Options: Body (BP_ThirdPersonCharacter_C_0.CharacterMesh0 SK_MMannequin) is set to simulate physics but Collision Enabled is incompatible
+[2023.05.28-09.23.41:762][625]PIE: Warning: Invalid Simulate Options: Body (BP_ThirdPersonCharacter_C_0.CharacterMesh0 SK_MMannequin) is set to simulate physics but Collision Enabled is incompatible
+[2023.05.28-09.23.41:881][625]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.05.28-09.23.41:881][625]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.28-09.23.41:965][625]PIE: Server logged in
+[2023.05.28-09.23.42:020][625]PIE: Play in editor total start time 1.918 seconds.
+[2023.05.28-09.23.44:637][754]LogDerivedDataCache: C:/Users/liusi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.669 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.28-09.23.50:363][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-09.23.50:363][283]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.28-09.23.50:414][283]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.23.50:492][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.23.50:657][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-09.23.50:674][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.23.50:740][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-09.23.50:865][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.28-09.23.50:867][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.28-09.23.51:041][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.28-09.23.51:209][284]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.28-09.23.52:370][371]LogSlate: Window 'Message Log' being destroyed
+[2023.05.28-09.23.52:381][371]LogSlate: Window 'Message Log' being destroyed
+[2023.05.28-09.23.53:682][478]LogSlate: Window 'BlinkAndDashFX_UsageExample' being destroyed
+[2023.05.28-09.23.53:692][478]LogSlate: Window 'BlinkAndDashFX_UsageExample' being destroyed
+[2023.05.28-09.23.53:730][478]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.23.53:730][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.23.59:174][965]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Low_Poly_Viking_World/Blueprints/BP_Firepit_02.BP_Firepit_02
+[2023.05.28-09.23.59:175][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.25.18:230][870]LogSlate: Window 'BP_Firepit_02' being destroyed
+[2023.05.28-09.25.18:239][870]LogSlate: Window 'BP_Firepit_02' being destroyed
+[2023.05.28-09.25.18:244][870]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.25.18:245][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.25.32:351][242]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Demo\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/KPOP_Sun/Demo/Animations/ThirdPersonIdle': Can't find file.
+[2023.05.28-09.25.32:351][242]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Demo/Animations/ThirdPersonIdle'
+[2023.05.28-09.25.32:352][242]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Demo\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/KPOP_Sun/Demo/Animations/ThirdPersonRun': Can't find file.
+[2023.05.28-09.25.32:352][242]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Demo/Animations/ThirdPersonRun'
+[2023.05.28-09.25.32:352][242]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Demo\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/KPOP_Sun/Demo/Animations/ThirdPersonWalk': Can't find file.
+[2023.05.28-09.25.32:352][242]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Demo/Animations/ThirdPersonWalk'
+[2023.05.28-09.25.32:353][242]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Demo\Animations\ThirdPerson_IdleRun_2D.uasset: Failed to load '/Game/KPOP_Sun/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2023.05.28-09.25.32:353][242]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Mesh/UE4_Mannequin_Skeleton'
+[2023.05.28-09.25.32:353][242]LoadErrors: Error: BlendSpace ThirdPerson_IdleRun_2D has a sample with no/invalid animation. Recommend to remove sample point or set new animation.
+[2023.05.28-09.25.32:515][242]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2023.05.28-09.25.43:782][242]LogSlate: Window 'Message' being destroyed
+[2023.05.28-09.25.43:857][242]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'ThirdPerson_IdleRun_2D' Would you like to choose a new one?
+[2023.05.28-09.25.44:396][242]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.05.28-09.25.47:408][283]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2023.05.28-09.25.48:633][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:634][387]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.25.48:651][387]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump : Invalid USkeleton supplied
+[2023.05.28-09.25.48:652][387]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.05.28-09.25.53:409][387]LogSlate: Window 'Message' being destroyed
+[2023.05.28-09.25.53:419][387]Message dialog closed, result: No, title: Message, text: Could not find the skeleton for Anim 'ThirdPerson_Jump' Would you like to choose a new one?
+[2023.05.28-09.26.39:854][806]LogSlate: Window 'Bridge' being destroyed
+[2023.05.28-09.26.39:864][806]LogSlate: Window 'Bridge' being destroyed
+[2023.05.28-09.29.11:335][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:336][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:337][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:337][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:337][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:337][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.29.11:337][674]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Invalid USkeleton supplied
+[2023.05.28-09.29.11:338][674]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.05.28-09.29.16:731][674]LogSlate: Window 'Message' being destroyed
+[2023.05.28-09.29.16:742][674]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'ThirdPersonIdle' Would you like to choose a new one?
+[2023.05.28-09.29.25:141][674]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2023.05.28-09.29.25:229][674]LogScript: Warning: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to find bone index, animation track will be removed: hair_back_01_l
+[2023.05.28-09.29.25:229][674]LogScript: Warning: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to find bone index, animation track will be removed: hair_back_01_r
+[2023.05.28-09.29.25:229][674]LogScript: Warning: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle : Unable to find bone index, animation track will be removed: hair_back_01_mid
+[2023.05.28-09.29.25:317][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.05.28-09.29.25:374][674]LogLinker: Warning: Failed to load '/Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_off': Can't find file.
+[2023.05.28-09.29.25:504][674]LogLinker: Warning: Failed to load '/Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_off': Can't find file.
+[2023.05.28-09.29.25:514][674]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_off.SK_Sun_PERFORMANCE_jacket_off'
+[2023.05.28-09.29.25:622][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.29.26:005][674]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.05.28-09.29.26:162][674]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.28-09.29.26:792][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.29.27:459][674]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.28-09.29.27:466][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.29.27:556][674]LogViewport: Scene viewport resized to 1172x487, mode Windowed.
+[2023.05.28-09.29.27:714][674]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.28-09.29.31:200][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.05.28-09.29.31:202][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.258
+[2023.05.28-09.29.31:205][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlinkAndDashVFX/BluePrints/BlinkAndDashFX_UsageExample] ([2] browsable assets)...
+[2023.05.28-09.29.31:205][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlinkAndDashVFX/BluePrints/BlinkAndDashFX_UsageExample]
+[2023.05.28-09.29.31:280][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlinkAndDashVFX/BluePrints/BlinkAndDashFX_UsageExample_Auto2
+[2023.05.28-09.29.31:281][835]LogSavePackage: Moving '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/BlinkAndDashFX_UsageExample_AutoA04A3CBC46B2359F5318F3A9DF9938F3.tmp' to '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/Autosaves/Game/BlinkAndDashVFX/BluePrints/BlinkAndDashFX_UsageExample_Auto2.uasset'
+[2023.05.28-09.29.31:318][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle] ([1] browsable assets)...
+[2023.05.28-09.29.31:362][835]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle]
+[2023.05.28-09.29.31:362][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle]
+[2023.05.28-09.29.31:416][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle_Auto2
+[2023.05.28-09.29.31:416][835]LogSavePackage: Moving '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/ThirdPersonIdle_Auto2909A4800459D5665D5F10BA523FA6130.tmp' to '../../../../../UE5 Projects/ThirdPerson_Shooting/Saved/Autosaves/Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonIdle_Auto2.uasset'
+[2023.05.28-09.29.31:438][835]LogFileHelpers: Auto-saving content packages took 0.213
+[2023.05.28-09.29.55:957][313]LogSlate: Window 'ThirdPersonIdle' being destroyed
+[2023.05.28-09.29.55:963][313]LogSlate: Window 'ThirdPersonIdle' being destroyed
+[2023.05.28-09.29.55:964][313]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.29.55:964][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.29.56:054][313]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.29.56:055][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.29.56:149][313]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.29.56:149][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogAnimation: Warning: Invalid Skeleton provided for FindCurveIdentifier
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:317][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:318][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:318][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:318][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.05.28-09.30.02:318][869]LogScript: Error: Script Msg: /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk : Invalid USkeleton supplied
+[2023.05.28-09.30.02:318][869]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.05.28-09.30.09:912][869]LogSlate: Window 'Message' being destroyed
+[2023.05.28-09.30.09:923][869]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'ThirdPersonWalk' Would you like to choose a new one?
+[2023.05.28-09.30.36:173][869]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2023.05.28-09.30.36:274][869]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.05.28-09.30.36:329][869]LogLinker: Warning: Failed to load '/Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_on': Can't find file.
+[2023.05.28-09.30.36:329][869]LogLinker: Warning: Failed to load '/Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_on': Can't find file.
+[2023.05.28-09.30.36:329][869]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/KPOP_Sun/Mesh/SK_Sun_PERFORMANCE_jacket_on.SK_Sun_PERFORMANCE_jacket_on'
+[2023.05.28-09.30.36:330][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.30.36:490][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.30.36:706][869]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.28-09.30.36:712][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.30.36:738][869]LogViewport: Scene viewport resized to 1172x487, mode Windowed.
+[2023.05.28-09.30.36:766][869]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.28-09.30.46:000][364]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Mesh\SeparatedMesh\SK_SUN_CASUAL_SKIRT_with_bones.uasset: Failed to load '/Game/KPOP_Sun/Materials/Clothes/MI_SUN_CASUAL_01': Can't find file.
+[2023.05.28-09.30.46:000][364]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Materials/Clothes/MI_SUN_CASUAL_01'
+[2023.05.28-09.30.46:000][364]LogLinker: Warning: [AssetLog] D:\UE5 Projects\ThirdPerson_Shooting\Content\Kpop_model\Content\KPOP_Sun\Mesh\SeparatedMesh\SK_SUN_CASUAL_SKIRT_with_bones.uasset: Failed to load '/Game/KPOP_Sun/Mesh/SeparatedMesh/SK_SUN_CASUAL_SKIRT_with_bones_PhysicsAsset': Can't find file.
+[2023.05.28-09.30.46:000][364]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/KPOP_Sun/Mesh/SeparatedMesh/SK_SUN_CASUAL_SKIRT_with_bones_PhysicsAsset'
+[2023.05.28-09.30.46:066][364]LogSkeletalMesh: Building Skeletal Mesh SK_SUN_CASUAL_SKIRT_with_bones...
+[2023.05.28-09.30.46:066][364]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_SUN_CASUAL_SKIRT_with_bones) ...
+[2023.05.28-09.30.46:102][364]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Kpop_model/Content/KPOP_Sun/Mesh/SeparatedMesh/SK_SUN_CASUAL_SKIRT_with_bones.SK_SUN_CASUAL_SKIRT_with_bones
+[2023.05.28-09.30.46:107][364]LogSlate: Window 'ThirdPersonWalk' being destroyed
+[2023.05.28-09.30.46:119][364]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.30.46:119][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.30.46:173][364]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.30.46:173][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.30.46:199][364]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Kpop_model/Content/KPOP_Sun/Demo/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.05.28-09.30.46:200][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.30.46:224][364]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Kpop_model/Content/KPOP_Sun/Mesh/SeparatedMesh/SK_SUN_CASUAL_SKIRT_with_bones.SK_SUN_CASUAL_SKIRT_with_bones has no skeleton. This needs to fixed before an animation can be set
+[2023.05.28-09.30.46:224][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
